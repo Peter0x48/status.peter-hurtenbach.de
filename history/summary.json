@@ -22,17 +22,17 @@
     "url": "https://peter-hurtenbach.de",
     "icon": "https://favicons.githubusercontent.com/peter-hurtenbach.de",
     "slug": "peter-hurtenbach",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 678,
-    "timeDay": 673,
-    "timeWeek": 733,
-    "timeMonth": 666,
-    "timeYear": 678,
+    "time": 679,
+    "timeDay": 726,
+    "timeWeek": 744,
+    "timeMonth": 672,
+    "timeYear": 679,
     "dailyMinutesDown": {}
   }
 ]
