@@ -22,19 +22,19 @@
     "url": "https://peter-hurtenbach.de",
     "icon": "https://favicons.githubusercontent.com/peter-hurtenbach.de",
     "slug": "peter-hurtenbach",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 705,
-    "timeDay": 563,
-    "timeWeek": 784,
-    "timeMonth": 720,
-    "timeYear": 705,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.14%",
+    "uptimeWeek": "99.73%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.99%",
+    "time": 707,
+    "timeDay": 721,
+    "timeWeek": 796,
+    "timeMonth": 725,
+    "timeYear": 707,
     "dailyMinutesDown": {
-      "2021-06-13": 0
+      "2021-06-13": 27
     }
   }
 ]
